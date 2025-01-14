@@ -10,7 +10,7 @@ body {
 
 }
 
-.hero-background {
+.hero-bg {
   background-color: #1f2937;
   padding: 0 15% 150px 15%;
 }
@@ -73,7 +73,7 @@ nav {
   padding: 8px 35px;
 }
 
-.img {
+.hero-img {
   background-color: #6d747d;
   color: #e5e7eb;
   width: 500px;
