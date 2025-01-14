@@ -120,3 +120,28 @@ nav {
   text-align: center;
   color: #1f2937;
 }
+
+.quote-bg {
+  display: flex;
+  padding: 150px 15%;
+  background-color: #e5e7eb;
+  justify-content: center;
+  align-items: center;
+}
+
+.quote-container {
+  display: flex;
+  flex-direction: column;
+  width: 800px;
+  gap: 5px;
+}
+
+.quote-container h2 {
+  font-size: 36px;
+  font-weight: 300;
+}
+
+.quote-container h6 {
+  font-size: 24px;
+  text-align: right;
+}
