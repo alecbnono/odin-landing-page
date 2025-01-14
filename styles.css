@@ -81,3 +81,42 @@ nav {
   justify-content: center;
   align-items: center;
 }
+
+.info-bg {
+  background-color: #f9faf8;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 75px 0;
+}
+
+.info-bg h2 {
+  font-size: 36px;
+  font-weight: 900;
+  color: #1f2937;
+}
+
+.info-container {
+  margin-top: 50px;
+  display: flex;
+  gap: 50px;
+}
+
+.info-card {
+  display: flex;
+  width: 150px;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.info-img {
+  height: 150px;
+  border: 5px solid #3882f6;
+  border-radius: 15px;
+}
+
+.info-text {
+  flex-grow: 0;
+  text-align: center;
+  color: #1f2937;
+}
